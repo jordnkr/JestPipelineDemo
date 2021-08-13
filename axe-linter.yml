@@ -1,0 +1,10 @@
+rules:
+   #image-alt: false # turn off rule
+  # other-rule: true # turn on rule
+
+tags: # Disable all rules for WCAG 2.0 and 2.1, level A and level AA
+  #- wcag2a
+  #- wcag2aa
+  #- wcag21a
+  #- wcag21aa
+  #- best-practice
